@@ -6,7 +6,7 @@
     the desired options. See the example `conf.xml` file for details.
 -->
 <resources>
-    <string name="default_rdfm_server_address">http://rdfm.example.local:5000/</string>
+    <string name="default_rdfm_server_address">https://rdfm.youbiquo.eu/</string>
     <string name="default_update_check_interval_seconds">86400</string>
     <string name="default_max_shell_count">2</string>
 </resources>
